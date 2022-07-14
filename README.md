@@ -1,1 +1,1 @@
-<img src="https://komarev.com/ghpvc/?username=HCI-Pro-ductions&style=flat-square&color=blue" alt=""/>
+The .github/profile/README.md would appear on our organization's public profile
